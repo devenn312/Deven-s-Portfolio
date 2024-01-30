@@ -18,7 +18,7 @@ const projectsData = [
     id: 2,
     title: "Krushak- A farmer’s Equipments Rental App",
     description: " Krushak App is a revolutionary farmers’ equipment rental platform, developed using Flutter and Firebase, aimed at modernizing and simplifying the process of accessing agricultural equipment for farmers.",
-    image: "/images/projects/Krushak.jpg",
+    image: "/images/projects/krushak.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/devenn312/Krushak--A-farmer-s-Equipments-Rental-App",
     
