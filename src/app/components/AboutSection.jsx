@@ -26,7 +26,7 @@ const TAB_DATA = [
         <li>Viva Institute of Technology - 8.39 cgpa </li>
         <li>Thakur college of science and commerce - 62 %</li>
         <li>CET - 81</li>
-        <li>Samat Vidya Mandir School - 86.20 %</li>
+        <li>Samata Vidya Mandir School - 86.20 %</li>
       </ul>
     ),
   },
